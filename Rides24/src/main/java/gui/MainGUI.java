@@ -59,7 +59,7 @@ public class MainGUI extends JFrame {
 		
 		// this.setSize(271, 295);
 		this.setSize(495, 290);
-		jLabelSelectOption = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("MainGUI.SelectOption"));
+		jLabelSelectOption = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("Seleccionar opción"));
 		jLabelSelectOption.setFont(new Font("Tahoma", Font.BOLD, 13));
 		jLabelSelectOption.setForeground(Color.BLACK);
 		jLabelSelectOption.setHorizontalAlignment(SwingConstants.CENTER);
