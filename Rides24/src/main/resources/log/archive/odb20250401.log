@@ -1,0 +1,864 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 13:03:25 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 91-91)
+
+[2025-04-01 13:03:25 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 14996@UdaneSaitua
+
+[2025-04-01 13:03:25 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 13:03:25 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 13:03:25 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 13:03:25 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 13:03:25 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 13:03:25 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 14:29:38 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 92-92)
+
+[2025-04-01 14:29:38 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 2608@UdaneSaitua
+
+[2025-04-01 14:29:38 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 14:29:38 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 14:29:38 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 14:29:38 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 14:29:38 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 14:29:38 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 14:54:04 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 93-96)
+
+[2025-04-01 14:54:04 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 12784@UdaneSaitua
+
+[2025-04-01 14:54:04 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 14:54:04 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 14:54:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 14:54:04 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 14:54:04 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 14:54:04 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 14:55:55 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 97-99)
+
+[2025-04-01 14:55:56 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 5404@UdaneSaitua
+
+[2025-04-01 14:55:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 14:55:56 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 14:55:56 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 14:55:56 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 14:55:56 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 14:55:56 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 15:00:52 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 100-100)
+
+[2025-04-01 15:00:52 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 30240@UdaneSaitua
+
+[2025-04-01 15:00:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 15:00:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 15:00:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 15:00:52 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 15:00:52 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 15:00:52 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 15:02:45 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 101-101)
+
+[2025-04-01 15:02:45 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 5196@UdaneSaitua
+
+[2025-04-01 15:02:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 15:02:45 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 15:02:45 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 15:02:45 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 15:02:45 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 15:02:45 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 15:03:27 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 102-102)
+
+[2025-04-01 15:03:27 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 33976@UdaneSaitua
+
+[2025-04-01 15:03:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 15:03:28 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 15:03:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 15:03:28 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 15:03:28 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 15:03:28 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 15:21:51 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 103-106)
+
+[2025-04-01 15:21:51 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 7332@UdaneSaitua
+
+[2025-04-01 15:21:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 15:21:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 15:21:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 15:21:52 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 15:21:52 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 15:21:52 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:26:58 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:27:41 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:27:42 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:38:41 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 33556@UdaneSaitua
+
+[2025-04-01 16:38:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 16:38:41 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 16:38:41 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 16:38:41 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 16:38:41 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 16:38:41 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:41:50 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 24552@UdaneSaitua
+
+[2025-04-01 16:41:50 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 16:41:50 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 16:41:50 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 16:41:50 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 16:41:50 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 16:41:50 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:47:26 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 127-127)
+
+[2025-04-01 16:47:27 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 28048@UdaneSaitua
+
+[2025-04-01 16:47:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 16:47:27 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 16:47:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 16:47:27 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 16:47:27 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 16:47:27 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:52:03 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 33864@UdaneSaitua
+
+[2025-04-01 16:52:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 16:52:03 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 16:52:03 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 16:52:03 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 16:52:03 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 16:52:03 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 16:54:09 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 133-133)
+
+[2025-04-01 16:54:09 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 13744@UdaneSaitua
+
+[2025-04-01 16:54:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 16:54:10 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 16:54:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 16:54:10 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 16:54:10 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 16:54:10 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:02:08 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 16196@UdaneSaitua
+
+[2025-04-01 17:02:08 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:02:08 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:02:08 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:02:08 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:02:08 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:02:08 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:03:10 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 134-135)
+
+[2025-04-01 17:03:10 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 33028@UdaneSaitua
+
+[2025-04-01 17:03:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:03:10 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:03:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:03:10 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:03:10 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:03:10 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:11:40 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 136-137)
+
+[2025-04-01 17:11:40 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 22208@UdaneSaitua
+
+[2025-04-01 17:11:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:11:40 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:11:40 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:11:40 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:11:40 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:11:40 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:16:08 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 138-139)
+
+[2025-04-01 17:16:08 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 24644@UdaneSaitua
+
+[2025-04-01 17:16:08 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:16:08 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:16:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:16:08 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:16:08 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:16:08 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:18:43 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 11976@UdaneSaitua
+
+[2025-04-01 17:18:43 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:18:43 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:18:43 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:18:43 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:18:43 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:18:43 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:19:59 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' has been recovered (tr. 144-145)
+
+[2025-04-01 17:19:59 #2 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 23476@UdaneSaitua
+
+[2025-04-01 17:19:59 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:19:59 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:19:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:19:59 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:19:59 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:19:59 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:21:37 #1 store] 
+Database 'C:\Users\Udane Saitua\OneDrive\2-Cuatri2\IS\IS_Iteracion2bueno\Rides24\src\main\resources\rides.temp' is opened by 15532@UdaneSaitua
+
+[2025-04-01 17:21:38 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:21:38 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:21:38 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:21:38 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:21:38 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:21:38 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:55:18 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 8056@LAPTOP-SJ70P6B5
+
+[2025-04-01 17:55:18 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:55:18 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:55:18 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:55:18 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:55:18 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:55:18 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 17:57:37 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 13716@LAPTOP-SJ70P6B5
+
+[2025-04-01 17:57:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 17:57:37 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 17:57:37 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 17:57:37 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 17:57:37 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 17:57:37 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:11:47 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 4152@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:11:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:11:47 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:11:47 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:11:47 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:11:47 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:11:47 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:13:20 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 16308@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:13:20 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:13:20 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:13:20 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:13:20 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:13:20 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:13:20 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:16:30 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 16180@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:16:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:16:30 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:16:30 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:16:30 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:16:30 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:16:30 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:17:12 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 13024@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:17:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:17:12 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:17:12 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:17:12 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:17:12 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:17:12 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:20:15 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 3532@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:20:15 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:20:15 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:20:15 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:20:15 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:20:15 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:20:15 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:21:31 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 15396@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:21:31 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:21:31 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:21:31 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:21:31 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:21:31 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:21:31 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:22:48 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 6352@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:22:49 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:22:49 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:22:49 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:22:49 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:22:49 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:22:49 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:25:32 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 16844@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:25:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:25:32 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:25:32 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:25:32 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:25:32 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:25:32 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:28:05 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' has been recovered (tr. 161-161)
+
+[2025-04-01 18:28:05 #2 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 18116@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:28:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:28:06 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:28:06 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:28:06 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:28:06 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:28:06 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:32:40 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' has been recovered (tr. 162-163)
+
+[2025-04-01 18:32:40 #2 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 18312@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:32:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:32:40 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:32:40 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:32:40 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:32:40 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:32:40 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 18:34:52 #1 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' has been recovered (tr. 164-168)
+
+[2025-04-01 18:34:52 #2 store] 
+Database 'C:\Users\Leire\OneDrive - UPV EHU\Escritorio\SEGUNDO\2ºCUATRI\IS\Rides24\src\main\resources\rides.temp' is opened by 16572@LAPTOP-SJ70P6B5
+
+[2025-04-01 18:34:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 18:34:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 18:34:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 18:34:52 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-01 18:34:52 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-01 18:34:52 #8 type] 
+Type domain.Rating is not enhanced.
+

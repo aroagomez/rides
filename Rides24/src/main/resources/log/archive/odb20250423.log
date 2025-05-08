@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-23 13:56:41 #1 store] 
+Database 'C:\Users\Leire\git\repository\Rides24\src\main\resources\rides.temp' is opened by 21400@LAPTOP-SJ70P6B5
+
+[2025-04-23 13:56:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-23 13:56:41 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-23 13:56:41 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-23 13:56:41 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-23 13:56:41 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-23 13:56:41 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-23 14:00:38 #1 store] 
+Database 'C:\Users\Leire\git\repository\Rides24\src\main\resources\rides.temp' is opened by 8128@LAPTOP-SJ70P6B5
+
+[2025-04-23 14:00:38 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-23 14:00:38 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-23 14:00:38 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-23 14:00:38 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-23 14:00:38 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-23 14:00:38 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-23 14:02:32 #1 store] 
+Database 'C:\Users\Leire\git\repository\Rides24\src\main\resources\rides.temp' is opened by 17464@LAPTOP-SJ70P6B5
+
+[2025-04-23 14:02:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-23 14:02:32 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-23 14:02:32 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-23 14:02:32 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-04-23 14:02:32 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-04-23 14:02:32 #7 type] 
+Type domain.Rating is not enhanced.
+

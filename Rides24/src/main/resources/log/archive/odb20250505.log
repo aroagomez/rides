@@ -1,0 +1,153 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:12:34 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' has been recovered (tr. 306-306)
+
+[2025-05-05 19:12:34 #2 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 21312@Aroa
+
+[2025-05-05 19:12:35 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:12:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:12:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:12:35 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:12:35 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:12:35 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:13:41 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' has been recovered (tr. 307-307)
+
+[2025-05-05 19:13:42 #2 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 25636@Aroa
+
+[2025-05-05 19:13:42 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:13:42 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:13:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:13:42 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:13:42 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:13:42 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:22:53 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' has been recovered (tr. 308-308)
+
+[2025-05-05 19:22:53 #2 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 26368@Aroa
+
+[2025-05-05 19:22:53 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:22:53 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:22:53 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:22:53 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:22:53 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:22:53 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:27:51 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 11900@Aroa
+
+[2025-05-05 19:27:51 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:27:52 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:27:52 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:27:52 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:27:52 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:27:52 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:39:04 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' has been recovered (tr. 309-310)
+
+[2025-05-05 19:39:05 #2 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 24916@Aroa
+
+[2025-05-05 19:39:05 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:39:05 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:39:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:39:05 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:39:05 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:39:05 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-05 19:41:12 #1 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' has been recovered (tr. 311-311)
+
+[2025-05-05 19:41:13 #2 store] 
+Database 'C:\Users\aroag\Desktop\IA\2\2_Cuatrimestre\Ingeniería del Software\Rides24\src\main\resources\rides.temp' is opened by 16596@Aroa
+
+[2025-05-05 19:41:13 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-05-05 19:41:13 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-05 19:41:13 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-05 19:41:13 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-05 19:41:13 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-05 19:41:13 #8 type] 
+Type domain.Rating is not enhanced.
+

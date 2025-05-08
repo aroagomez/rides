@@ -1,0 +1,570 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:22:59 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 47-47)
+
+[2025-03-26 10:22:59 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 9760@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:22:59 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:22:59 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:22:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:22:59 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:22:59 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:22:59 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:23:25 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 3224@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:23:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:23:25 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:23:25 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:23:25 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:23:25 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:23:25 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:27:58 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 3560@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:27:58 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:27:58 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:27:58 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:27:58 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:27:58 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:27:58 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:34:16 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 11500@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:34:16 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:34:16 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:34:16 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:34:16 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:34:16 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:34:16 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:43:53 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 11024@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:43:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:43:54 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:43:54 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:43:54 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:43:54 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:43:54 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:44:52 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 13980@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:44:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:44:52 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:44:52 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:44:52 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:44:52 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:44:52 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:49:05 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 15300@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:49:05 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:49:05 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:49:05 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:49:05 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:49:05 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:49:05 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 10:53:34 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 8236@LAPTOP-SJ70P6B5
+
+[2025-03-26 10:53:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 10:53:34 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 10:53:34 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 10:53:34 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 10:53:34 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 10:53:34 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:22:09 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 10372@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:22:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:22:09 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:22:09 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:22:09 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:22:09 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:22:09 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:23:07 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 12512@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:23:07 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:23:07 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:23:07 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:23:07 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:23:07 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:23:07 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:27:11 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 57-57)
+
+[2025-03-26 11:27:11 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 15720@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:27:12 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:27:12 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:27:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:27:12 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:27:12 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:27:12 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:28:17 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 10732@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:28:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:28:17 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:28:18 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:28:18 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:28:18 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:28:18 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:28:49 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 13928@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:28:49 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:28:49 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:28:49 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:28:49 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:28:49 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:28:49 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:49:04 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 4880@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:49:04 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:49:04 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:49:04 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:49:04 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:49:04 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:49:04 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 11:51:31 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 58-62)
+
+[2025-03-26 11:51:31 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 11296@LAPTOP-SJ70P6B5
+
+[2025-03-26 11:51:31 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 11:51:31 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 11:51:31 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 11:51:31 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 11:51:31 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 11:51:31 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:02:18 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 11864@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:02:18 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:02:18 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:02:18 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:02:18 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:02:18 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:02:18 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:08:41 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 63-65)
+
+[2025-03-26 12:08:41 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 5912@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:08:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:08:41 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:08:41 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:08:41 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:08:41 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:08:41 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:09:48 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 9572@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:09:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:09:48 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:09:48 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:09:48 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:09:48 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:09:48 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:10:51 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 13400@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:10:51 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:10:51 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:10:52 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:10:52 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:10:52 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:10:52 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:17:28 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 67-70)
+
+[2025-03-26 12:17:29 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 14976@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:17:29 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:17:29 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:17:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:17:29 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:17:29 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:17:29 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:21:30 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' has been recovered (tr. 71-72)
+
+[2025-03-26 12:21:30 #2 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 13656@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:21:30 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:21:30 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:21:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:21:30 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:21:30 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:21:30 #8 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:25:33 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 10872@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:25:33 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:25:33 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:25:33 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:25:33 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:25:33 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:25:33 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 12:35:28 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 6356@LAPTOP-SJ70P6B5
+
+[2025-03-26 12:35:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 12:35:28 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 12:35:28 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 12:35:28 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 12:35:28 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 12:35:28 #7 type] 
+Type domain.Rating is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-26 18:28:42 #1 store] 
+Database 'C:\Users\Leire\Downloads\Rides-master\Rides24\src\main\resources\rides.temp' is opened by 15672@LAPTOP-SJ70P6B5
+
+[2025-03-26 18:28:42 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-26 18:28:42 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-26 18:28:42 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-26 18:28:42 #5 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-26 18:28:42 #6 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-03-26 18:28:42 #7 type] 
+Type domain.Rating is not enhanced.
+
