@@ -16,4 +16,4 @@ El objetivo principal de este proyecto fue asentar las bases de la **Programaci�
 * * **Persistencia:** Base de datos local para el almacenamiento de usuarios, rutas y transacciones.
 * **Enfoque:** Programación Orientada a Objetos y lógica de negocio.
 
-> **Nota sobre el estado del proyecto:** > Este repositorio es un proyecto de carácter puramente académico. Representa una iteración temprana enfocada en el aprendizaje de la arquitectura de software en Java. Cuenta con persistencia de datos en entorno local, pero no está adaptado para despliegues en la nube ni cuenta con estándares de ciberseguridad para producción.
+> **Nota sobre el estado del proyecto:** Este repositorio es un proyecto de carácter puramente académico. Representa una iteración temprana enfocada en el aprendizaje de la arquitectura de software en Java. Cuenta con persistencia de datos en entorno local, pero no está adaptado para despliegues en la nube ni cuenta con estándares de ciberseguridad para producción.
